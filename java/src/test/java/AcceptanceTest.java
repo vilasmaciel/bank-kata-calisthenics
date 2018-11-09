@@ -3,7 +3,7 @@ import org.junit.Test;
 public class AcceptanceTest {
 
     @Test
-    public void should() {
+    public void shouldWhatever() {
 
     }
 

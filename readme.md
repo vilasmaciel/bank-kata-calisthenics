@@ -10,7 +10,7 @@ Write a class `Account` that offers the following methods:
 
 * `void deposit(int)`
 * `void withdraw(int)`
-* `String printStatement()`
+* `void printStatements()`
 
 ## The Rules
 
